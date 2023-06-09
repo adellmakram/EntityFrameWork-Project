@@ -1,0 +1,68 @@
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.csproj.AssemblyReference.cache
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.AssemblyInfoInputs.cache
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.AssemblyInfo.cs
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.csproj.CoreCompileInputs.cache
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\EFW Project.exe
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\EFW Project.deps.json
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\EFW Project.runtimeconfig.json
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\EFW Project.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\EFW Project.pdb
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Azure.Core.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Azure.Identity.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Memory.Data.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.csproj.CopyComplete
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\refint\EFW Project.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.pdb
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\EFW Project.genruntimeconfig.cache
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\obj\Debug\net7.0\ref\EFW Project.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Humanizer.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\iTi\Entity FrameWork\EFW Project\EFW Project\bin\Debug\net7.0\System.CodeDom.dll
